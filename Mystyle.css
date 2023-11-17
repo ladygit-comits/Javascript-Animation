@@ -26,7 +26,10 @@ body{
 	    background-color:rgb(75, 8, 106);
 		margin:0.5em0;
 		padding:0.5em;
-		border-right:1em solid black
+		border-right:1em solid black;
+		margin-right: 30px;
+		
+		
 		}
   UL.navbar a{
 		text-decoration:none}
@@ -42,7 +45,7 @@ img{
 
 .logo{
 	padding-left: 900px;
-	
+
 }
 #album{
 	margin-top: 20px;
